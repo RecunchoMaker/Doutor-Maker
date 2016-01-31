@@ -4,7 +4,7 @@ Proxecto para a recollida e reparación de xoguetes do Recuncho Maker.
 
 ## Inventario de xoguetes.
 
-  1. [Netbook PC Szenio 11700](fichas/0001_szenio_netbook/README.md)
+  1. [Netbook PC Szenio 11700](fichas/0001_szenio_netbook/)
   2. [Guitarra electrónica](fichas/0002_guitarra_electronica/README.md)
   3. Consola Utech U-Smile
   4. Gimnasio interactivo
