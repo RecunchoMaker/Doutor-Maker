@@ -2,6 +2,8 @@
 
 Proxecto para a recollida e reparación de xoguetes do Recuncho Maker.
 
+Dosier: [dosier_2015.pdf](doc/dosier_2015.pdf)
+
 ## Inventario de xoguetes.
 
   1. [Netbook PC Szenio 11700](fichas/0001_szenio_netbook/)
